@@ -11,7 +11,7 @@ An interactive dashboard was developed using PivotTables, PivotCharts, KPI cards
 - PivotTables and PivotCharts
 - Excel slicers for interactive filtering
 - Excel formulas and data visualization
-
+![Retail Sales Analysis Dashboard](dashboard_preview.png)
 ## Dashboard Features
 - **Total Sales:** Displays overall sales revenue.
 - **Total Profit:** Shows total profit generated.
